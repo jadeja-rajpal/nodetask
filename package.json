@@ -5,6 +5,7 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
+    "ajv": "^6.12.6",
     "header-case-normalizer": "^1.0.3",
     "lodash": "^4.17.20",
     "moment": "^2.29.1"
